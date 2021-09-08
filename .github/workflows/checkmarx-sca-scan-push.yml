@@ -4,7 +4,7 @@
 #   - CHECKMARX_SCA_USERNAME
 #   - CHECKMARX_SCA_PASSWORD
 ##
-# The following variables must be inserted below:
+# The following variables must be inserted below: 
 #   - <ProjectName>
 #   - <SCATenant>
 #
